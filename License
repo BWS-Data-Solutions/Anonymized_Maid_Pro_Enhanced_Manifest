@@ -1,0 +1,25 @@
+
+BWS DATA SOLUTIONS - COMMERCIAL DATA LICENSE AGREEMENT
+
+This License Agreement ("Agreement") is made between Brett Williams Studios LLC ("Licensor") and the purchasing entity ("Licensee").
+
+1. GRANT OF LICENSE
+Subject to the terms of this Agreement, Licensor grants Licensee a non-exclusive, non-transferable, revocable license to utilize the "Maid_Pro" dataset for the purpose of training machine learning models, research, and development.
+
+2. COMPLIANCE & ETHICS
+Licensee acknowledges that the Data is provided under the CLEAR Act 2026 compliance framework. Licensee shall not attempt to re-identify any human subjects within the dataset and must adhere to all applicable privacy and AI safety regulations in their use of the training data.
+
+3. OWNERSHIP
+Licensor retains all right, title, and interest in and to the raw assets, including all intellectual property rights. This Agreement does not transfer ownership of the underlying imagery.
+
+4. PROHIBITED USES
+Licensee shall not:
+- Resell, redistribute, or sublicense the raw dataset to any third party.
+- Use the Data to create competing image banks or stock photography services.
+- Remove or obscure any forensic markers, watermarks, or metadata provided in the manifest.
+
+5. LIABILITY
+The Data is provided "as-is." Licensor makes no warranties, express or implied, regarding the suitability of the Data for any specific commercial application. Licensor’s total liability shall not exceed the amount paid by the Licensee for the specific dataset license.
+
+6. GOVERNING LAW
+This Agreement shall be governed by the laws of the State of Florida, USA.
